@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UploadData.RevenueFile.Customer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggAIgAAAIASAAAIAAAEAAEAACAAEAAA=</HashCode>
+      <FileName>RevenueFile\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UploadData.RevenueFile.Products" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAACAAAAgAAAAIAAAAAAACAAAAMIAgAAAAAMAAA=</HashCode>
+      <FileName>RevenueFile\Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UploadData.RevenueFile.Revenue" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAABAEAEgAAAAQAAAACQAAAAAAAIAAAABACEAAA=</HashCode>
+      <FileName>RevenueFile\Revenue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UploadData.RevenueFile.RevenueMySQL">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAQAABAEAEAAABAAAAAAAU=</HashCode>
+      <FileName>RevenueFile\RevenueMySQL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UploadData.RevenueFile.Time" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAARAAAgAAAgAAAAAOAgAAAAAEMAIAIAAAEAAA=</HashCode>
+      <FileName>RevenueFile\Time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UploadData.DatabaseFirestore">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>DatabaseFirestore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UploadData.DatabaseMySQL">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DatabaseMySQL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
